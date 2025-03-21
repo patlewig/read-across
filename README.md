@@ -1,7 +1,7 @@
 read_across
 ==============================
 
-Repository supporting the manuscript **Patlewicz G***, Karamertzanis P, Paul Friedman K, Sannicola M, Shah I. 2024. A systematic analysis of read-across within REACH registration dossiers.  Computational Toxicology, *in press*
+Repository supporting the manuscript **Patlewicz G***, Karamertzanis P, Paul Friedman K, Sannicola M, Shah I. 2024. A systematic analysis of read-across within REACH registration dossiers.  Computational Toxicology, 30, 100304, https://doi.org/10.1016/j.comtox.2024.100304
 
 All data files associated with this manuscript are available from figshare at <https://doi.org/10.23645/epacomptox.25343383>.
 
